@@ -1,0 +1,7 @@
+{
+  "name": "wui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
